@@ -11,7 +11,7 @@ A list of useful and awesome sites 📑😻
 
 1. Fork it!
 2. Edit `README.md` file
-3. Submit a pull request :D
+3. Submit a pull request 😜
 
 ## Author
 
