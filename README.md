@@ -2,8 +2,8 @@
 A list of useful and awesome sites 📑😻
 
 
-- [Lorem Picsum](https://picsum.photos/) - the Lorem Ipsum for photos.
-
+- [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
+- [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs
 
 ---
 
