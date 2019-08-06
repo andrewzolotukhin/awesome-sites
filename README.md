@@ -4,6 +4,7 @@ A list of useful and awesome sites 📑😻
 #### Development
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges
 - [Devhints](https://devhints.io/) - A collection of dev cheatsheets.
+- [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
 #### Graphics (photos, icons, ilustrations).
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
