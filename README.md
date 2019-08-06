@@ -8,7 +8,7 @@ A list of useful and awesome sites 📑😻
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [Icons8](https://icons8.ru) - Free vector icons.
-
+- [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges
 
 ---
 
