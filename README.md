@@ -12,6 +12,7 @@ A list of useful and awesome sites 📑😻
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [Icons8](https://icons8.ru) - Free vector icons.
+- [CleverBrush](https://www.cleverbrush.com/) - Free online illustrator and photo collage builder.
 #### Skill UP 🚀
 - [Livechatinc](https://www.livechatinc.com/typing-speed-test/#/) - Typing Speed Test
 
